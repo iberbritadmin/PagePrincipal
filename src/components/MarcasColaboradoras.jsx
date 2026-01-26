@@ -9,14 +9,14 @@ const marcas = [
   "/images/marcas/MadFlats.webp",
   "/images/marcas/SiMadrid.webp",
   "/images/marcas/Spanish Conection.webp",
-  "/images/marcas/image.avif",
+  "/images/marcas/image (5).webp",
   "/images/marcas/Auren.webp",
   "/images/marcas/Economistas.webp",
   "/images/marcas/El Enemigo.webp",
   "/images/marcas/MadFlats.webp",
   "/images/marcas/SiMadrid.webp",
   "/images/marcas/Spanish Conection.webp",
-  "/images/marcas/image.avif",
+  "/images/marcas/image (6).webp",
    
 ];
 
