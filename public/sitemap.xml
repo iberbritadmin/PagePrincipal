@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://www.iberbrit.com/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.iberbrit.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.iberbrit.com/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.iberbrit.com/" />
+    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.iberbrit.com/servicios</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.iberbrit.com/servicios" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.iberbrit.com/en/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.iberbrit.com/servicios" />
+    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.iberbrit.com/servicios/fiscal</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.iberbrit.com/servicios/fiscal" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.iberbrit.com/en/services/tax" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.iberbrit.com/servicios/fiscal" />
+    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.iberbrit.com/servicios/laboral</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.iberbrit.com/servicios/laboral" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.iberbrit.com/en/services/labor" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.iberbrit.com/servicios/laboral" />
+    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.iberbrit.com/servicios/legal</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.iberbrit.com/servicios/legal" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.iberbrit.com/en/services/legal" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.iberbrit.com/servicios/legal" />
+    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.iberbrit.com/paquetes</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.iberbrit.com/paquetes" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.iberbrit.com/en/packages" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.iberbrit.com/paquetes" />
+    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.iberbrit.com/contacto</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.iberbrit.com/contacto" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.iberbrit.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.iberbrit.com/contacto" />
+    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.iberbrit.com/nosotros</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.iberbrit.com/nosotros" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.iberbrit.com/en/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.iberbrit.com/nosotros" />
+    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.iberbrit.com/oficinas</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.iberbrit.com/oficinas" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.iberbrit.com/en/offices" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.iberbrit.com/oficinas" />
+    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.iberbrit.com/legal</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.iberbrit.com/legal" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.iberbrit.com/en/legal-notice" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.iberbrit.com/legal" />
+    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.iberbrit.com/politicas-cookies</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.iberbrit.com/politicas-cookies" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.iberbrit.com/en/cookies-policy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.iberbrit.com/politicas-cookies" />
+    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.iberbrit.com/politicas-privacidad</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.iberbrit.com/politicas-privacidad" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.iberbrit.com/en/privacy-policy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.iberbrit.com/politicas-privacidad" />
+    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
+  </url>
+
+</urlset>

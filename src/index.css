@@ -1,0 +1,106 @@
+@import "tailwindcss";
+
+/* RESET GENERAL */
+html, body, #app, #root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Animaciones personalizadas */
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-100%); }
+}
+.animate-marquee {
+  animation: marquee 40s linear infinite;
+}
+
+/* Base de diseño */
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #213547; /* Color texto principal (modo claro) */
+  background-color: #ffffff; /* Fondo principal (modo claro) */
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Permitir adaptación a claro y oscuro según el sistema del usuario */
+  color-scheme: light dark;
+}
+
+/* Estilo de enlaces */
+a {
+  font-weight: 500;
+  color: #991b1b;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #801717;
+}
+
+/* Base del body */
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Títulos */
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+/* Botones base */
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #991b1b; /* Rojo Iberbrit */
+  color: white;
+  cursor: pointer;
+  transition: border-color 0.25s, background-color 0.25s;
+}
+button:hover {
+  border-color: #440707;
+}
+
+/* Accesibilidad de botones */
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+/* Modo Oscuro Automático */
+@media (prefers-color-scheme: dark) {
+  :root {
+    color: #f1f5f9; /* Texto claro en modo oscuro */
+    background-color: #0f172a; /* Fondo oscuro */
+  }
+
+  a {
+    color: #991b1b; /* Rojo más suave en modo oscuro */
+  }
+
+  a:hover {
+    color: #440707; /* Hover más claro */
+  }
+
+  button {
+    background-color: #991b1b; /* Mantenemos el rojo Iberbrit */
+    color: white;
+  }
+
+  button:hover {
+    background-color: #b91c1c; /* Hover más intenso en modo oscuro */
+  }
+}

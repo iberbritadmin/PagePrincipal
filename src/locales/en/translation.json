@@ -1,0 +1,530 @@
+
+  {
+    "seo": {
+      "home": {
+        "title": "Iberbrit Asesores | Expertos en Asesoría Fiscal, Laboral y Legal",
+        "description": "Iberbrit ofrece asesoría fiscal, laboral y legal de la mano de economistas y abogados especializados. Garantizamos tranquilidad ante la Agencia Tributaria.",
+        "keywords": "asesoría fiscal, laboral, legal, economistas, abogados, asesoría integral"
+      },
+      "servicios": {
+        "title": "Servicios de Asesoría Integral | Iberbrit",
+        "description": "Descubre nuestros servicios de asesoría fiscal-contable, laboral y legal adaptados para autónomos, empresas y no residentes.",
+        "keywords": "asesoría fiscal, asesoría laboral, asesoría legal, asesoría integral, contabilidad empresarial"
+      },
+      "paquetes": {
+        "title": "Paquetes de Asesoramiento Fiscal y Legal | Iberbrit",
+        "description": "Explora nuestros kits de asesoramiento fiscal y legal para autónomos, sociedades, residentes y no residentes.",
+        "keywords": "kit fiscal autónomos, kit fiscal sociedades, kit legal, kit no residentes, asesoría fiscal"
+      },
+      "contacto": {
+        "title": "Contáctanos | Iberbrit Asesores",
+        "description": "Contacta con Iberbrit y recibe asesoría personalizada en menos de 24 horas. Te ayudamos con tu situación fiscal, laboral y legal.",
+        "keywords": "contacto Iberbrit, asesoría fiscal, asesoría laboral, consulta legal, economistas y abogados"
+      },
+      "nosotros": {
+        "title": "Sobre Iberbrit | Asesoría Fiscal, Laboral y Legal",
+        "description": "Conoce Iberbrit, nuestro equipo y los valores que nos convierten en la asesoría líder en fiscalidad, contabilidad y derecho mercantil.",
+        "keywords": "sobre Iberbrit, asesoría legal, asesoría fiscal, economistas, abogados, asesoría integral"
+      },
+      "oficinas": {
+        "title": "Nuestras Oficinas en España | Iberbrit",
+        "description": "Visítanos en Madrid, Cartagena o La Manga y recibe asesoría fiscal, laboral y legal especializada.",
+        "keywords": "oficinas Iberbrit, Madrid, Cartagena, La Manga, asesoría fiscal, asesoría legal"
+      },
+      "fiscal": {
+        "title": "Asesoría Fiscal y Contable | Iberbrit",
+        "description": "Optimiza tu fiscalidad con Iberbrit. Asesoría fiscal estratégica y contabilidad precisa para autónomos y empresas.",
+        "keywords": "asesoría fiscal, asesoría contable, impuestos, economistas, planificación tributaria"
+      },
+      "laboral": {
+        "title": "Asesoría Laboral Integral | Iberbrit",
+        "description": "Protege tu empresa con asesoría laboral integral en contratación, nóminas y seguridad social con Iberbrit.",
+        "keywords": "asesoría laboral, contratos laborales, gestión laboral, inspecciones trabajo"
+      },
+      "legal": {
+        "title": "Asesoría Legal Mercantil | Iberbrit",
+        "description": "Asesoría jurídica mercantil integral para empresas en constitución, contratos, compliance y procedimientos legales.",
+        "keywords": "asesoría legal mercantil, constitución sociedades, contratos mercantiles, abogados mercantiles"
+      }
+    },
+  "home": {
+    "hero": {
+      "titulo": "Legal, Tax, Accounting, and Labor Consulting for Companies and Individuals",
+      "descripcion": "Since 2002, we have been offering comprehensive advisory services to entrepreneurs, freelancers, companies, and non-residents in Spain.",
+      "botonInformacion": "Request Information",
+      "botonServicios": "Our Services"
+    },
+    "areas": {
+      "titulo": "AREAS AND SERVICES",
+      "laboral": {
+        "titulo": "Labor Advisory",
+        "descripcion": "Comprehensive management of labor relations, contracts, payrolls, dismissals, and risk prevention."
+      },
+      "legal": {
+        "titulo": "Business Legal Advisory",
+        "descripcion": "Company incorporation, commercial contracts, regulatory compliance, and legal protection."
+      },
+      "fiscal": {
+        "titulo": "Tax and Accounting Advisory",
+        "descripcion": "Tax planning, business accounting, taxes, balance sheets, and auditing."
+      }
+    },
+    "contacto": {
+      "titulo": "Shall we start solving your situation today?",
+      "descripcion": "Contact us and we will reply within 24 hours.",
+      "botonEnviar": "Send inquiry"
+    }
+  },
+  "navbar": {
+    "servicios": "Services",
+    "nosotros": "About Us",
+    "contacto": "Contact",
+    "paquetes": "Packages",
+    "oficinas": "Offices",
+    "llamanos": "Call Us"
+  },
+  
+"kits": {
+    "titulo": "Our Advisory Packs",
+    "popular": "Most Popular",
+    "verMas": "...see more in the packages section",
+    "solicitarInformacion": "Request information",
+    "verTodos": "See all advisory packages",
+    "autonomo": {
+      "nombre": "Freelancer Pack",
+      "descripcion": "For freelancers seeking a complete solution for their tax and fiscal obligations.",
+      "beneficios": [
+        "Tax planning",
+        "Tax declarations: VAT, Census, IAE, Withholdings, IRPF",
+        "Annual informative declarations",
+        "Online tax submissions",
+        "Tax certificates",
+        "Requirement attention",
+        "Debt deferments and installment payments",
+        "VAT Book Records"
+      ]
+    },
+    "sociedades": {
+      "nombre": "Corporate Fiscal Pack",
+      "descripcion": "For commercial and patrimonial companies requiring tax planning and integral accounting.",
+      "beneficios": [
+        "Tax planning and pre-closings",
+        "Complete tax filings",
+        "Monthly accounting",
+        "Annual accounts deposit",
+        "Accounting plan implementation",
+        "Tax and accounting consultations"
+      ]
+    },
+    "noResidentes": {
+      "nombre": "Non-Residents Pack",
+      "descripcion": "For non-residents with tax obligations in Spain: IRNR, IBI/SUMA, and representation.",
+      "beneficios": [
+        "Personalized tax study",
+        "Pre-calculation and filing of IRNR",
+        "IBI/SUMA management",
+        "Representation before Tax Agency",
+        "Continuous consultancy"
+      ]
+    }
+    
+  },
+  "porqueElegirnos": {
+    "titulo": "Why choose Iberbrit?",
+    "tranquilidad": "Your peace of mind is our priority.",
+    "solicitar": "Request your first consultation",
+    "razones": [
+      {
+        "titulo": "Guaranteed success",
+        "descripcion": "Over 98% of our clients achieve their fiscal and legal goals thanks to our strategic advice."
+      },
+      {
+        "titulo": "Over 15 years of experience",
+        "descripcion": "We have advised freelancers, companies, and families in Spain with real, complex, and demanding cases."
+      },
+      {
+        "titulo": "Personalized support",
+        "descripcion": "You are not just a file. Your advisor knows your business and speaks your language."
+      },
+      {
+        "titulo": "Commitment to deadlines",
+        "descripcion": "We strictly meet tax dates, legal procedures, and accounting obligations."
+      },
+      {
+        "titulo": "Total transparency",
+        "descripcion": "Clear reports, permanent follow-up, and no surprise fees."
+      },
+      {
+        "titulo": "National and international coverage",
+        "descripcion": "We serve resident and non-resident clients with obligations in Spain."
+      }
+    ]
+  }, 
+  "estadisticas": {
+    "titulo": "Trust built with real results",
+    "descripcion": "Each number represents a legal success story, a company that trusted our firm, or a resident who found tax peace of mind. These figures are our best introduction card.",
+    "clientes": "Satisfied Clients",
+    "anios": "Years of Service",
+    "operaciones": "Signed Operations",
+    "paises": "Countries Advised",
+    "cta": "Want to be part of these figures?",
+    "boton": "Request a meeting"
+  },
+  "testimonios": {
+    "titulo": "What our clients say",
+    "sandra": "The only transparent ones in the area. I came from a bad experience and they literally saved my life! Very professional. They empathize, advise, and genuinely help you. Highly recommended!",
+    "javier": "Very professional team and excellent service. My tax return was handled smoothly. Also received detailed legal advice. Highly recommended for anyone seeking solutions.",
+    "lau": "I wanted to start my business but the process seemed complicated. They guided me through every step with clarity. Thanks to the whole team!",
+    "boton": "See more reviews on Google"
+  },
+  "nosotros": {
+    "quienesSomos": "Who are we?",
+    "subtitulo": "A firm with soul, where closeness and legal rigor come together to achieve extraordinary results.",
+    "descripcion": "Iberbrit was born with the vocation of being more than just a law firm: we are the strategic ally for those who need human, efficient, and personalized advice. Our team is made up of experts in law, taxation, and labor relations committed to your success.",
+    "origen": {
+      "titulo": "Our origin",
+      "texto": "Since 2002, Iberbrit has supported hundreds of entrepreneurs, individuals, and companies in their fiscal and legal processes, both in Spain and abroad. We started as a small office in Madrid and today we have a presence in several cities."
+    },
+    "valores": {
+      "titulo": "Our values",
+      "etica": "Professional ethics",
+      "trato": "Human and close treatment",
+      "compromiso": "Commitment to results",
+      "transparencia": "Transparency throughout the process",
+      "residentes": "Support for residents and non-residents"
+    },
+    "trabajaConNosotros": {
+      "titulo": "Would you like to work with us?",
+      "descripcion": "At Iberbrit we are constantly growing. If you share our values and have a passion for legal, fiscal, or economic services, we want to meet you.",
+      "boton": "Submit application"
+    }
+  },
+  
+"paquetes": {
+    "titulo": "All our advisory packages",
+    "kits": {
+      "kitAutonomo": {
+        "nombre": "Freelancer Pack",
+        "descripcion": "For freelancers seeking a complete solution for their tax and fiscal obligations.",
+        "beneficios": [
+          "Tax planning",
+          "Tax returns: VAT, Census, IAE, Withholdings, IRPF",
+          "Annual informative statements",
+          "Online submissions",
+          "Request for tax certificates",
+          "Handling of tax inquiries",
+          "Debt deferrals and installments",
+          "VAT Ledger Books"
+        ]
+      },
+      "kitFiscalSociedades": {
+        "nombre": "Corporate Fiscal Pack",
+        "descripcion": "For corporations and holding companies requiring fiscal planning and accounting services.",
+        "beneficios": [
+          "Tax planning and pre-closing reports",
+          "Corporate tax returns: VAT, Census, IAE, Withholdings",
+          "Corporate Income Tax",
+          "Accounting services",
+          "Filing of annual accounts",
+          "Official books legalization",
+          "Fiscal and accounting consultations"
+        ]
+      },
+      "kitNoResidentes": {
+        "nombre": "Non-Resident Pack",
+        "descripcion": "For non-residents with tax obligations in Spain: IRNR, IBI/SUMA, and more.",
+        "beneficios": [
+          "Personalized tax assessment",
+          "Pre-calculation and filing of IRNR",
+          "Management of IBI / SUMA",
+          "Tax representation before Spanish Tax Agency",
+          "Online submissions"
+        ]
+      },
+      "kitResidentes": {
+        "nombre": "inactive companies Fiscal Pack",
+        "descripcion": "Complete fiscal service for inactive companies: accounting, tax filing, and more.",
+        "beneficios": [
+          "Tax planning",
+          "Tax returns: VAT, Census, IAE, Withholdings, IRPF",
+          "Online submissions",
+          "Request for tax certificates",
+          "Handling of tax inquiries"
+        ]
+      },
+      "kitSociedadCivil": {
+        "nombre": "Civil Partnership Fiscal Pack",
+        "descripcion": "Complete fiscal service for civil partnerships: accounting, tax filing, and more.",
+        "beneficios": [
+          "Tax planning",
+          "Tax returns: VAT, Census, IAE, Withholdings, IRPF",
+          "Online submissions",
+          "Request for tax certificates",
+          "Handling of tax inquiries"
+        ]
+      },
+      "kitLaboral": {
+        "nombre": "Labor Advisory Pack",
+        "descripcion": "Labor advisory for companies: hiring, Social Security, payrolls, inspections, and more.",
+        "beneficios": [
+          "Verbal consultations",
+          "Social Security registrations and cancellations",
+          "Advisory on social benefits",
+          "Payroll preparation",
+          "Online submissions"
+        ]
+      },
+      "asesoriainmobiliaria": {
+        "nombre": "Real Estate Advisory",
+        "descripcion": "Comprehensive advisory for real estate operations: tax, legal, and accounting management.",
+       "beneficios": [
+          "Tax planning for real estate operations",
+          "Legal advice on property transactions",
+          "Accounting management of real estate assets",
+          "Assistance in tax inspections and requirements"
+        ]     
+        
+      },
+      "liquidaciondesociedades": {
+        "nombre": "Company Liquidation Advisory",
+        "descripcion": "Comprehensive advisory for the liquidation of companies: tax, legal, and accounting management.",
+       "beneficios": [
+          "Tax planning for company liquidation",
+          "Legal advice on liquidation processes",
+          "Accounting management of liquidated companies",
+          "Assistance in tax inspections and requirements"
+        ]
+
+        
+      }
+    }
+  },
+  "servicios": {
+    "titulo": "Iberbrit Advisory Solutions",
+    "descripcion1": "At Iberbrit, we offer tailored legal and tax solutions for companies, freelancers, and non-residents. Our economists and advisors ensure peace of mind before the Tax Agency with precise, close, and expert management.",
+    "descripcion2": "Specialists in tax and accounting advisory, labor advisory, commercial legal advisory, and personalized tax packages such as the Freelancer Pack or the Non-Resident Pack.",
+    "lista": [
+      { "titulo": "Tax and Accounting Advisory", "descripcion": "Optimize your tax burden with our expert economists. We handle your taxes, financial statements, accounting books, and more.", "url": "/servicios/fiscal" },
+      { "titulo": "Labor Advisory", "descripcion": "We manage contracts, payroll, dismissals, and labor relations effectively, safely, and legally.", "url": "/servicios/laboral" },
+      { "titulo": "Commercial Legal Advisory", "descripcion": "Legal solutions for companies: contracts, company formation, and regulatory compliance.", "url": "/servicios/legal" },
+      { "titulo": "Comprehensive Advisory", "descripcion": "Complete service for companies and freelancers: tax, accounting, labor, and legal advice in one firm.", "url": "/paquetes" },
+      { "titulo": "Freelancer Tax Pack", "descripcion": "Simplified taxation, VAT books, IRPF, handling tax notices, and more.", "url": "/paquetes" },
+      { "titulo": "Corporate Tax Pack", "descripcion": "From internal accounting to corporate tax. Ideal for asset-holding companies and SMEs.", "url": "/paquetes" },
+      { "titulo": "Legal Pack", "descripcion": "Includes legal defense, contract review, company formation, and full legal assistance.", "url": "/paquetes" },
+      { "titulo": "Non-Resident Pack", "descripcion": "Tax representation, IRNR, SUMA, IBI, and personalized attention for international clients.", "url": "/paquetes" },
+      { "titulo": "Resident Pack", "descripcion": "Tax, legal, and accounting assistance for residents in Spain with corporate obligations.", "url": "/paquetes" },
+      { "titulo": "Civil Company Fiscal Pack", "descripcion": "Complete fiscal assistance for residents in Spain with civil company obligations.", "url": "/paquetes" },
+      { "titulo": "Custom Service 1", "descripcion": "Personalized assistance tailored to each client's specific needs.", "url": "/paquetes" },
+      { "titulo": "Custom Service 2", "descripcion": "Advanced solutions for tax, accounting, and legal management.", "url": "/paquetes" }
+    ]
+  }, 
+  "fiscal": {
+    "titulo": "Tax and Accounting Consulting in Spain",
+    "descripcion": "Optimize your taxes with the support of expert economists. We manage your taxes, accounting, and legal compliance precisely and strategically.",
+    
+    "queIncluyeTitulo": "What does our tax advisory service include?",
+    "queIncluyeDescripcion": "Everything you need to stay compliant and optimize your taxation.",
+    "incluye": [
+      "Strategic tax planning for freelancers and companies.",
+      "Preparation and submission of taxes: VAT, Personal Income Tax, Corporate Tax.",
+      "Accounting adapted to current regulations.",
+      "Advice on tax audits and inspections.",
+      "Legalization of official accounting books.",
+      "Representation before tax authorities."
+    ],
+
+    "beneficiosTitulo": "Benefits of trusting Iberbrit",
+    "beneficiosDescripcion": "More than accountants, we are your strategic tax partners.",
+    "beneficio1": "Save time, avoid penalties, and take advantage of all available tax benefits for your company or activity.",
+    "beneficio2": "Our team works proactively with you, keeping you updated on regulatory changes.",
+    "beneficio3": "100% personalized service, periodic reports, and unlimited advice for any tax query.",
+    "beneficio4": "Legal peace of mind so you can focus on growing your business.",
+
+    "metodologiaTitulo": "How do we work?",
+    "metodologia": [
+      "First free consultation and analysis of your current situation.",
+      "Personalized tax planning proposal.",
+      "Preparation and submission of your periodic tax obligations.",
+      "Continuous monitoring and alerts for relevant tax changes.",
+      "Legal defense in audits or tax requirements."
+    ],
+
+    "diferenciaTitulo": "Why are we not a traditional accounting firm?",
+    "diferenciaDescripcion1": "Traditional agencies only process your taxes. At Iberbrit, we design smart tax strategies that protect your business and boost its growth.",
+    "diferenciaDescripcion2": "We work with you, not for you. We get involved at every stage to keep you always one step ahead of the Tax Agency.",
+
+    "faqTitulo": "Frequently Asked Questions",
+    "faq": [
+      {
+        "q": "What taxes must a freelancer file in Spain?",
+        "a": "Mainly VAT, Personal Income Tax, quarterly and annual models like 130, 303, 390, or 347, among others."
+      },
+      {
+        "q": "Does Iberbrit also manage corporate taxes?",
+        "a": "Yes, we advise and handle full accounting and taxation for SMEs, holding companies, and startups."
+      },
+      {
+        "q": "What should I do if I receive a tax audit or requirement?",
+        "a": "Don’t worry, Iberbrit will represent you throughout the process, defending your interests and resolving any issues."
+      }
+    ],
+
+    "ctaTitulo": "Ready to transform your taxation?",
+    "ctaBoton": "Request a free consultation"
+  },
+  "laboral": {
+    "hero": {
+      "titulo": "Comprehensive Labor Advisory",
+      "descripcion": "Protect your company and ensure legal compliance with experts in hiring, payroll, Social Security, and inspections."
+    },
+    "incluye": {
+      "titulo": "What does our labor advisory include?",
+      "descripcion": "Services designed to guarantee your peace of mind and your team's.",
+      "lista": [
+        "Advice on hiring and contract types.",
+        "Payroll processing, social security contributions, and settlements.",
+        "Registrations, terminations, and changes in Social Security.",
+        "Representation before labor inspections.",
+        "Management of dismissals and disciplinary proceedings.",
+        "Consultancy on occupational risk prevention."
+      ]
+    },
+    "beneficios": {
+      "titulo": "Benefits of working with Iberbrit",
+      "descripcion": "Ensure labor stability, avoid risks, and protect your business interests.",
+      "lista": [
+        "Strict compliance with all current labor regulations and avoidance of unnecessary sanctions or conflicts.",
+        "Our team acts preventively and advises on optimizing your human resources.",
+        "We defend your interests before the Labor Inspection and ensure safe labor procedures.",
+        "At Iberbrit we offer commitment, confidentiality, and tailored solutions for your company."
+      ]
+    },
+    "trabajo": {
+      "titulo": "How do we work with you?",
+      "pasos": [
+        "Analysis of your company's current labor situation.",
+        "Identification of risks and improvement opportunities.",
+        "Design and implementation of safe labor strategies.",
+        "Continuous updates and regulatory monitoring.",
+        "Representation and defense before labor authorities."
+      ]
+    },
+    "diferencia": {
+      "titulo": "Why choose Iberbrit for your labor advisory?",
+      "descripcion": [
+        "We don't just solve procedures. We build a strong labor strategy, optimizing costs and ensuring compliance with your obligations.",
+        "Our advisory service is proactive, close, and fully adapted to your company's needs."
+      ]
+    },
+    "faq": {
+      "titulo": "Frequently asked questions about labor advisory",
+      "lista": [
+        { "q": "What documents do I need to hire employees?", "a": "Employee ID, Social Security affiliation number, and signed contract." },
+        { "q": "What does a labor inspection include?", "a": "Review of contracts, compliance with contributions, occupational risk prevention, and employee conditions." },
+        { "q": "What should I do if I receive a labor sanction?", "a": "Our team assists you in defense, legal advice, and handling appeals before the Labor Inspection." }
+      ]
+    },
+    "cta": {
+      "titulo": "Do you want to guarantee your company's labor peace of mind?",
+      "boton": "Request a free consultation"
+    }
+  },
+  "legal": {
+    "hero": {
+      "titulo": "Corporate Legal Advisory in Spain",
+      "descripcion": "Protect your company and operations with Iberbrit's legal support. Company formations, contracts, compliance, and more."
+    },
+    "incluye": {
+      "titulo": "What does our legal advisory cover?",
+      "descripcion": "We protect every step of your company with legal rigor and strategy.",
+      "lista": [
+        "Company formations and statutory modifications.",
+        "Drafting and reviewing commercial and civil contracts.",
+        "Advice on mergers, acquisitions, and corporate dissolutions.",
+        "Legal compliance and regulatory adaptation (GDPR, AML).",
+        "Assistance in commercial judicial proceedings.",
+        "Ongoing legal consultancy for national and international companies."
+      ]
+    },
+    "beneficios": {
+      "titulo": "Benefits of choosing Iberbrit",
+      "descripcion": "Legal confidence to operate in Spain with peace of mind and professional support.",
+      "lista": [
+        "Total legal security in your commercial and corporate operations.",
+        "Anticipation of legal risks through a preventive strategy tailored to your sector.",
+        "Reduction of litigation through solid contracts adapted to current regulations.",
+        "Effective representation and defense in any commercial proceeding."
+      ]
+    },
+    "metodo": {
+      "titulo": "How do we assist you from day one?",
+      "pasos": [
+        "We analyze your legal situation and business goals.",
+        "We design a personalized legal strategy.",
+        "We protect your contracts and corporate documentation.",
+        "Continuous support for regulatory compliance.",
+        "Legal defense in commercial disputes if necessary."
+      ]
+    },
+    "diferencia": {
+      "titulo": "What sets us apart from other firms?",
+      "descripcion": [
+        "At Iberbrit, we don't just solve legal problems. We create solutions that drive your business growth, with strategic, practical, and personalized advice.",
+        "We are committed to excellence, proactivity, and total mastery of Spanish and international corporate law."
+      ]
+    },
+    "faq": {
+      "titulo": "Frequently asked questions about legal advisory",
+      "lista": [
+        { "q": "What documents are needed to form a company?", "a": "Partners' ID/NIE, corporate bylaws, negative name certification, and other basic documents adapted to the company type." },
+        { "q": "What if a contract has abusive clauses?", "a": "Our team will review the contract and negotiate its modification or cancellation to protect your interests." },
+        { "q": "Do you offer legal defense if I have a commercial dispute?", "a": "Yes. We have lawyers specialized in corporate law who will represent you in any judicial proceeding." }
+      ]
+    },
+    "cta": {
+      "titulo": "Do you need to legally shield your company?",
+      "boton": "Request legal advisory now"
+    }
+  },
+  "oficinas": {
+    "titulo": "Our Offices in Spain",
+    "descripcion": "Discover our offices in Madrid, Cartagena, and La Manga. We are strategically located to offer you quality tax, accounting, legal, and labor advisory services.",
+    "oficina": "Office in",
+    "boton": "Request appointment in {{ciudad}}",
+    "lista": [
+      {
+        "ciudad": "Madrid",
+        "direccion": "Calle Gran Via 64, Planta 3 - Derecha, Centro, 28013 Madrid",
+        "imagenes": [
+          "/images/fotoscartagenas/fotoscartagena (17).webp",
+          "/images/fotoscartagenas/fotoscartagena (15).webp",
+          "/images/fotoscartagenas/fotoscartagena (12).webp",
+          "/images/fotoscartagenas/fotoscartagena (13).webp"
+        ],
+        "descripcion": "Our office in Madrid is located in the financial and business heart of Spain. From here, we advise freelancers, companies, and individuals, offering comprehensive tax, legal, and accounting services."
+      },
+      {
+        "ciudad": "Cartagena",
+        "direccion": "Iberbrit Legal, Calle Dr. Luis Calandre, 30, Ground Floor - Office, 30205 Cartagena, Murcia",
+        "imagenes": [
+          "/images/fotoscartagenas/fotoscartagena (21).webp",
+          "/images/fotoscartagenas/fotoscartagena (22).webp",
+          "/images/fotoscartagenas/fotoscartagena (18).webp",
+          "/images/fotoscartagenas/fotoscartagena (19).webp"
+        ],
+        "descripcion": "At our Cartagena office, we combine proximity, personalized attention, and professional excellence. Strategically located, we offer tailored tax, accounting, labor, and legal advice to local and international businesses."
+      },
+      {
+        "ciudad": "La Manga",
+        "direccion": "Iberbrit Legal, 30380 La Manga del Mar Menor. Cartagena, Murcia.",
+        "imagenes": [
+          "/images/fotoscartagenas/fotoscartagena (24).webp",
+          "/images/fotoscartagenas/fotoscartagena (25).webp",
+          "/images/fotoscartagenas/fotoscartagena (26).webp",
+          "/images/fotoscartagenas/fotoscartagena (29).webp"
+        ],
+        "descripcion": "Our office in La Manga offers a privileged environment for attending to national and international clients."
+      }
+    ]
+  }
+}

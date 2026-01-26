@@ -1,0 +1,531 @@
+{
+  "seo": {
+    "home": {
+      "title": "Iberbrit Asesores | Expertos en Asesoría Fiscal, Laboral y Legal",
+      "description": "Iberbrit ofrece asesoría fiscal, laboral y legal de la mano de economistas y abogados especializados. Garantizamos tranquilidad ante la Agencia Tributaria.",
+      "keywords": "asesoría fiscal, laboral, legal, economistas, abogados, asesoría integral"
+    },
+    "servicios": {
+      "title": "Servicios de Asesoría Integral | Iberbrit",
+      "description": "Descubre nuestros servicios de asesoría fiscal-contable, laboral y legal adaptados para autónomos, empresas y no residentes.",
+      "keywords": "asesoría fiscal, asesoría laboral, asesoría legal, asesoría integral, contabilidad empresarial"
+    },
+    "paquetes": {
+      "title": "Paquetes de Asesoramiento Fiscal y Legal | Iberbrit",
+      "description": "Explora nuestros kits de asesoramiento fiscal y legal para autónomos, sociedades, residentes y no residentes.",
+      "keywords": "kit fiscal autónomos, kit fiscal sociedades, kit legal, kit no residentes, asesoría fiscal"
+    },
+    "contacto": {
+      "title": "Contáctanos | Iberbrit Asesores",
+      "description": "Contacta con Iberbrit y recibe asesoría personalizada en menos de 24 horas. Te ayudamos con tu situación fiscal, laboral y legal.",
+      "keywords": "contacto Iberbrit, asesoría fiscal, asesoría laboral, consulta legal, economistas y abogados"
+    },
+    "nosotros": {
+      "title": "Sobre Iberbrit | Asesoría Fiscal, Laboral y Legal",
+      "description": "Conoce Iberbrit, nuestro equipo y los valores que nos convierten en la asesoría líder en fiscalidad, contabilidad y derecho mercantil.",
+      "keywords": "sobre Iberbrit, asesoría legal, asesoría fiscal, economistas, abogados, asesoría integral"
+    },
+    "oficinas": {
+      "title": "Nuestras Oficinas en España | Iberbrit",
+      "description": "Visítanos en Madrid, Cartagena o La Manga y recibe asesoría fiscal, laboral y legal especializada.",
+      "keywords": "oficinas Iberbrit, Madrid, Cartagena, La Manga, asesoría fiscal, asesoría legal"
+    },
+    "fiscal": {
+      "title": "Asesoría Fiscal y Contable | Iberbrit",
+      "description": "Optimiza tu fiscalidad con Iberbrit. Asesoría fiscal estratégica y contabilidad precisa para autónomos y empresas.",
+      "keywords": "asesoría fiscal, asesoría contable, impuestos, economistas, planificación tributaria"
+    },
+    "laboral": {
+      "title": "Asesoría Laboral Integral | Iberbrit",
+      "description": "Protege tu empresa con asesoría laboral integral en contratación, nóminas y seguridad social con Iberbrit.",
+      "keywords": "asesoría laboral, contratos laborales, gestión laboral, inspecciones trabajo"
+    },
+    "legal": {
+      "title": "Asesoría Legal Mercantil | Iberbrit",
+      "description": "Asesoría jurídica mercantil integral para empresas en constitución, contratos, compliance y procedimientos legales.",
+      "keywords": "asesoría legal mercantil, constitución sociedades, contratos mercantiles, abogados mercantiles"
+    }
+  },
+  "home": {
+    "hero": {
+      "titulo": "Asesoría Legal, Fiscal, Contable y Laboral para Empresas y Particulares",
+      "descripcion": "Desde 2002, ofrecemos servicios de asesoramiento integral a emprendedores, autónomos, sociedades y no residentes en España.",
+      "botonInformacion": "Solicitar información",
+      "botonServicios": "Nuestros servicios"
+    },
+    "areas": {
+      "titulo": "ÁREAS Y SERVICIOS",
+      "laboral": {
+        "titulo": "Asesoría Laboral",
+        "descripcion": "Gestión integral de relaciones laborales, contratos, nóminas, despidos y prevención de riesgos."
+      },
+      "legal": {
+        "titulo": "Asesoría Legal Mercantil",
+        "descripcion": "Constitución de sociedades, contratos mercantiles, cumplimiento normativo y protección jurídica."
+      },
+      "fiscal": {
+        "titulo": "Asesoría Fiscal y Contable",
+        "descripcion": "Planificación fiscal, contabilidad empresarial, impuestos, balances y auditoría."
+      }
+    }
+  },
+  "contacto": {
+    "titulo": "¿Empezamos hoy mismo a resolver tu situación?",
+    "descripcion": "Contáctanos y te responderemos en menos de 24 horas.",
+    "botonEnviar": "Enviar consulta"
+  },
+  "navbar": {
+    "servicios": "Servicios",
+    "nosotros": "Nosotros",
+    "contacto": "Contacto",
+    "paquetes": "Paquetes",
+    "oficinas": "Oficinas",
+    "llamanos": "Llámanos"
+  }, 
+  "kits": {
+    "titulo": "Nuestros Packs de Asesoramiento",
+    "popular": "El más popular",
+    "verMas": "...ver más en la sección de paquetes",
+    "solicitarInformacion": "Solicitar información",
+    "verTodos": "Ver todos los paquetes de asesoramiento",
+    "autonomo": {
+      "nombre": "Pack Autónomo",
+      "descripcion": "Para autónomos que buscan una solución completa para sus obligaciones fiscales y tributarias.",
+      "beneficios": [
+        "Planificaciones tributarias",
+        "Declaraciones fiscales: IVA, Censos, IAE, Retenciones, IRPF",
+        "Declaraciones informativas anuales",
+        "Presentaciones telemáticas",
+        "Certificados tributarios",
+        "Atención de requerimientos",
+        "Aplazamientos y fraccionamientos",
+        "Libros-Registro Ley IVA"
+      ]
+    },
+    "sociedades": {
+      "nombre": "Pack Fiscal Sociedades",
+      "descripcion": "Para sociedades mercantiles y patrimoniales que requieren planificación fiscal y contabilidad integral.",
+      "beneficios": [
+        "Planificaciones y pre-cierres",
+        "Declaraciones fiscales completas",
+        "Contabilidad mensual",
+        "Depósito de cuentas anuales",
+        "Implantación del plan contable",
+        "Consultas fiscales y contables"
+      ]
+    },
+    "noResidentes": {
+      "nombre": "Pack No Residentes",
+      "descripcion": "Para no residentes con obligaciones fiscales en España: IRNR, IBI/SUMA, representación y más.",
+      "beneficios": [
+        "Estudio fiscal personalizado",
+        "Pre-cálculo y presentación IRNR",
+        "Gestión del IBI / SUMA",
+        "Representación ante Hacienda",
+        "Consultoría continua"
+      ]
+    }
+  },
+  "porqueElegirnos": {
+    "titulo": "¿Por qué elegir Iberbrit?",
+    "tranquilidad": "Tu tranquilidad es nuestra prioridad.",
+    "solicitar": "Solicita tu primera asesoría",
+    "razones": [
+      {
+        "titulo": "Éxito garantizado",
+        "descripcion": "Más del 98% de nuestros clientes cumplen sus objetivos fiscales y legales gracias a nuestra asesoría estratégica."
+      },
+      {
+        "titulo": "Más de 15 años de experiencia",
+        "descripcion": "Hemos asesorado a autónomos, sociedades y familias en España con casos reales, complejos y exigentes."
+      },
+      {
+        "titulo": "Acompañamiento personalizado",
+        "descripcion": "No eres un expediente más. Tu asesor está contigo, conoce tu negocio y habla tu idioma."
+      },
+      {
+        "titulo": "Compromiso con los plazos",
+        "descripcion": "Cumplimos rigurosamente con las fechas de impuestos, trámites legales y obligaciones contables."
+      },
+      {
+        "titulo": "Transparencia total",
+        "descripcion": "Informes claros, seguimiento permanente y tarifas sin sorpresas."
+      },
+      {
+        "titulo": "Cobertura nacional e internacional",
+        "descripcion": "Atendemos clientes residentes y no residentes con obligaciones en territorio español."
+      }
+    ]
+  }, 
+  "estadisticas": {
+    "titulo": "Confianza construida con resultados reales",
+    "descripcion": "Cada número representa una historia de éxito legal, una empresa que confió en nuestro despacho, o un residente que encontró tranquilidad fiscal. Estas cifras son nuestra mejor carta de presentación.",
+    "clientes": "Clientes Satisfechos",
+    "anios": "Años Brindando Servicio",
+    "operaciones": "Operaciones Firmadas",
+    "paises": "Países Asesorados",
+    "cta": "¿Quieres formar parte de estas cifras?",
+    "boton": "Solicita una reunión"
+  }, 
+  "testimonios": {
+    "titulo": "Lo que dicen nuestros clientes",
+    "sandra": "Lo único transparente por la zona. Vine de una muy mala experiencia por otro administrador de la zona y me salvaron la vida. ¡Muy profesionales! Se ponen en la piel del otro, te aconsejan, te ayudan y no te timan. Mi consejo: ¡ponte en sus manos!",
+    "javier": "Un equipo muy profesional y un trato excelente. Declaración de renta impecable. También me asesoraron en temas legales de manera clara y precisa. Muy recomendable.",
+    "lau": "Quería iniciar mi actividad comercial, pero el proceso me parecía complicado. Me asesoraron en cada paso, explicándome todo con claridad. Gracias a todo el equipo!",
+    "boton": "Ver más reseñas en Google"
+  },
+
+  "nosotros": {
+    "quienesSomos": "¿Quiénes somos?",
+    "subtitulo": "Un despacho con alma, donde la cercanía y el rigor legal se combinan para lograr resultados extraordinarios.",
+    "descripcion": "Iberbrit nace con la vocación de ser más que un despacho: somos el aliado estratégico de quienes necesitan asesoramiento humano, eficiente y personalizado. Nuestro equipo está formado por expertos en derecho, fiscalidad y relaciones laborales comprometidos con tu éxito.",
+    "origen": {
+      "titulo": "Nuestro origen",
+      "texto": "Desde 2002, Iberbrit ha acompañado a cientos de emprendedores, particulares y empresas en sus procesos fiscales y legales, tanto en España como en el extranjero. Comenzamos como un pequeño despacho en Madrid y hoy tenemos presencia en varias ciudades."
+    },
+    "valores": {
+      "titulo": "Nuestros valores",
+      "etica": "Ética profesional",
+      "trato": "Trato humano y cercano",
+      "compromiso": "Compromiso con el resultado",
+      "transparencia": "Transparencia en todo el proceso",
+      "residentes": "Atención a residentes y no residentes"
+    },
+    "trabajaConNosotros": {
+      "titulo": "¿Quieres trabajar con nosotros?",
+      "descripcion": "En Iberbrit estamos en constante crecimiento. Si compartes nuestros valores y tienes pasión por el servicio jurídico, fiscal o económico queremos conocerte.",
+      "boton": "Enviar solicitud"
+    }
+  },
+  "paquetes": {
+    "titulo": "Todos nuestros paquetes de asesoramiento",
+    "kits": {
+      "kitAutonomo": {
+        "nombre": "Pack Autónomo",
+        "descripcion": "Para autónomos que buscan una solución completa para sus obligaciones fiscales y tributarias.",
+        "beneficios": [
+          "Planificaciones tributarias",
+          "Declaraciones fiscales: IVA, Censos, IAE, Retenciones, IRPF",
+          "Declaraciones informativas anuales",
+          "Presentaciones telemáticas",
+          "Solicitud de certificados tributarios",
+          "Atención de requerimientos",
+          "Aplazamientos y fraccionamientos de deudas",
+          "Libros-Registro Ley IVA"
+        ]
+      },
+      "kitFiscalSociedades": {
+        "nombre": "Pack Fiscal Sociedades",
+        "descripcion": "Para sociedades mercantiles y patrimoniales que requieren planificación fiscal y contabilidad integral.",
+        "beneficios": [
+          "Planificaciones tributarias y pre-cierres",
+          "Declaraciones fiscales: IVA, Sociedades, Censos, IAE, Retenciones",
+          "Impuesto de Sociedades",
+          "Contabilidad desde nuestro despacho",
+          "Depósito de cuentas anuales",
+          "Legalización de libros oficiales",
+          "Consultas fiscales y contables"
+        ]
+      },
+      "kitNoResidentes": {
+        "nombre": "Pack No Residentes Con Inmuebles ",
+        "descripcion": "Para no residentes con obligaciones fiscales en España: IRNR, IBI/SUMA, representación y más.",
+        "beneficios": [
+          "Estudio fiscal personalizado en España",
+          "Pre-cálculo y presentación del IRNR",
+          "Gestión del IBI / SUMA",
+          "Representación fiscal ante la Agencia Tributaria",
+          "Presentaciones telemáticas"
+        ]
+      },
+      "kitResidentes": {
+        "nombre": "Pack Fiscal Sociedades Inactivas",
+        "descripcion": "Para residentes con sociedades patrimoniales sin actividad fiscal.",
+        "beneficios": [
+          "Declaraciones fiscales: Impuesto Sociedades (sin actividad)",
+          "Presentaciones telemáticas",
+          "Certificados tributarios",
+          "Legalización de libros oficiales"
+        ]
+      },
+      "kitSociedadCivil": {
+        "nombre": "Pack Sociedad Civil Fiscal",
+        "descripcion": "Servicio fiscal completo para sociedades civiles: contabilidad, presentación de impuestos y más.",
+        "beneficios": [
+          "Planificaciones tributarias",
+          "Declaraciones fiscales: IVA, Censos, IAE, Retenciones, IRPF",
+          "Presentaciones telemáticas",
+          "Certificados tributarios",
+          "Atención de requerimientos"
+        ]
+      },
+      "kitLaboral": {
+        "nombre": "Pack Laboral",
+        "descripcion": "Asesoría laboral para empresas: contratación, Seguridad Social, nóminas, inspecciones y más.",
+        "beneficios": [
+          "Consultas verbales",
+          "Altas y bajas en Seguridad Social",
+          "Asesoramiento sobre prestaciones",
+          "Confección de nóminas",
+          "Presentaciones telemáticas"
+        ]
+      },
+      "asesoriainmobiliaria": {
+        "nombre": "Asesoria Inmobiliaria Fiscal",
+        "descripcion": "Asesoría integral para inmobiliarias: gestión de contratos y cumplimiento normativo.",
+       "beneficios": [
+          "Asesoría legal y fiscal para inmobiliarias",
+          "Gestión de alquileres y contratos",
+          "Cumplimiento normativo en operaciones inmobiliarias",
+          "Asistencia en inspecciones y requerimientos"
+          
+          
+        ]
+        
+        
+      },
+      "liquidaciondesociedades": {
+        "nombre": "Liquidación de Sociedades",
+        "descripcion": "Asesoría integral para la liquidación de sociedades: cumplimiento normativo y gestión de activos.",
+       "beneficios": [
+          "Asesoría legal y fiscal para liquidación de sociedades",
+          "Gestión de activos y pasivos",
+          "Cumplimiento normativo en procesos de liquidación",
+          "Asistencia en inspecciones y requerimientos"
+          
+        ]
+        
+        
+      }
+    }
+  },
+  "servicios": {
+    "titulo": "Soluciones de Asesoría Iberbrit",
+    "descripcion1": "En Iberbrit ofrecemos soluciones legales y fiscales a medida para empresas, autónomos y no residentes. Nuestros economistas y asesores garantizan tranquilidad frente a la Agencia Tributaria con una gestión precisa, cercana y experta.",
+    "descripcion2": "Especialistas en asesoría fiscal y contable, asesoría laboral, asesoría legal mercantil y paquetes fiscales personalizados como el Pack Autónomo o el Pack No Residentes.",
+    "lista": [
+      { "titulo": "Asesoría Fiscal y Contable", "descripcion": "Optimiza tu carga tributaria con nuestros economistas expertos. Nos encargamos de tus impuestos, balances, libros contables y más.", "url": "/servicios/fiscal" },
+      { "titulo": "Asesoría Laboral", "descripcion": "Gestionamos contratos, nóminas, despidos y relaciones laborales de forma eficaz, segura y legal.", "url": "/servicios/laboral" },
+      { "titulo": "Asesoría Legal Mercantil", "descripcion": "Soluciones jurídicas para sociedades, contratos, constitución de empresas y cumplimiento normativo.", "url": "/servicios/legal" },
+      { "titulo": "Asesoría Integral", "descripcion": "Servicio completo para empresas y autónomos: fiscal, contable, laboral y legal en un solo despacho.", "url": "/paquetes" },
+      { "titulo": "Pack Fiscal Autónomos", "descripcion": "Tributación simplificada, libros IVA, IRPF, atención de requerimientos y más.", "url": "/paquetes" },
+      { "titulo": "Pack Fiscal Sociedades", "descripcion": "Desde contabilidad interna hasta el Impuesto de Sociedades. Ideal para patrimoniales y PYMEs.", "url": "/paquetes" },
+      { "titulo": "Pack Legal", "descripcion": "Incluye defensa jurídica, revisión de contratos, constitución de sociedades y asistencia legal integral.", "url": "/paquetes" },
+      { "titulo": "Pack No Residentes", "descripcion": "Representación fiscal, IRNR, SUMA, IBI y atención personalizada para clientes internacionales.", "url": "/paquetes" },
+      { "titulo": "Pack Residentes", "descripcion": "Asistencia fiscal, legal y contable para residentes en España con obligaciones societarias.", "url": "/paquetes" },
+      { "titulo": "Pack Sociedad Civil Fiscal", "descripcion": "Asistencia civil para residentes en España con obligaciones fiscales.", "url": "/paquetes" },
+      { "titulo": "Servicio Personalizado 1", "descripcion": "Asistencia personalizada, adaptada a necesidades específicas de cada cliente.", "url": "/paquetes" },
+      { "titulo": "Servicio Personalizado 2", "descripcion": "Soluciones avanzadas en gestión fiscal, contable y legal.", "url": "/paquetes" }
+    ]
+  },
+  "fiscal": {
+    "titulo": "Asesoría Fiscal y Contable en España",
+    "descripcion": "Optimiza tu fiscalidad con el respaldo de economistas expertos. Gestionamos tus impuestos, contabilidad y cumplimiento legal de forma precisa y estratégica.",
+    
+    "queIncluyeTitulo": "¿Qué incluye nuestra asesoría fiscal?",
+    "queIncluyeDescripcion": "Todo lo que necesitas para estar en regla y optimizar tu tributación.",
+    "incluye": [
+      "Planificación fiscal estratégica para autónomos y sociedades.",
+      "Elaboración y presentación de impuestos: IVA, IRPF, Impuesto de Sociedades.",
+      "Contabilidad adaptada a la normativa vigente.",
+      "Asesoramiento en inspecciones fiscales.",
+      "Legalización de libros contables oficiales.",
+      "Representación ante organismos tributarios."
+    ],
+
+    "beneficiosTitulo": "Beneficios de confiar en Iberbrit",
+    "beneficiosDescripcion": "Más que gestores, somos tus socios estratégicos fiscales.",
+    "beneficio1": "Ahorra tiempo, evita sanciones y aprovecha todos los beneficios fiscales disponibles para tu empresa o actividad.",
+    "beneficio2": "Nuestro equipo trabaja contigo de forma proactiva, manteniéndote actualizado frente a cambios normativos.",
+    "beneficio3": "Servicio 100% personalizado, informes periódicos y asesoramiento ilimitado para resolver cualquier consulta fiscal.",
+    "beneficio4": "Tranquilidad jurídica para que tú solo te centres en hacer crecer tu negocio.",
+
+    "metodologiaTitulo": "¿Cómo trabajamos?",
+    "metodologia": [
+      "Primera consulta gratuita y análisis de tu situación.",
+      "Propuesta personalizada de planificación fiscal.",
+      "Preparación y presentación de tus obligaciones periódicas.",
+      "Seguimiento continuo y alertas de cambios fiscales relevantes.",
+      "Defensa legal en inspecciones o requerimientos tributarios."
+    ],
+
+    "diferenciaTitulo": "¿Por qué no somos una gestoría tradicional?",
+    "diferenciaDescripcion1": "Las gestorías tradicionales se limitan a tramitar tus impuestos. En Iberbrit, diseñamos estrategias fiscales inteligentes que protegen tu negocio y potencian tu crecimiento.",
+    "diferenciaDescripcion2": "Trabajamos contigo, no para ti. Nos involucramos en cada etapa para que siempre estés un paso adelante de la Agencia Tributaria.",
+
+    "faqTitulo": "Preguntas frecuentes",
+    "faq": [
+      {
+        "q": "¿Qué impuestos debe presentar un autónomo en España?",
+        "a": "Principalmente IVA, IRPF, modelos trimestrales y anuales como el 130, 303, 390 o 347, entre otros."
+      },
+      {
+        "q": "¿Iberbrit gestiona también sociedades mercantiles?",
+        "a": "Sí, asesoramos y llevamos la contabilidad y fiscalidad completa de PYMEs, sociedades patrimoniales y startups."
+      },
+      {
+        "q": "¿Qué hago si recibo un requerimiento o inspección de Hacienda?",
+        "a": "No te preocupes, Iberbrit te representa en todo el proceso, defendiendo tus intereses y resolviendo cualquier incidencia."
+      }
+    ],
+
+    "ctaTitulo": "¿Listo para transformar tu fiscalidad?",
+    "ctaBoton": "Solicita una consulta gratuita"
+  },
+  "laboral": {
+    "hero": {
+      "titulo": "Asesoría Laboral Integral",
+      "descripcion": "Protege tu empresa y asegura el cumplimiento legal con expertos en contratación, nóminas, Seguridad Social e inspecciones."
+    },
+    "incluye": {
+      "titulo": "¿Qué incluye nuestra asesoría laboral?",
+      "descripcion": "Servicios diseñados para garantizar tu tranquilidad y la de tu equipo.",
+      "lista": [
+        "Asesoramiento en contratación y modalidades de contrato.",
+        "Confección de nóminas, seguros sociales y finiquitos.",
+        "Altas, bajas y modificaciones en la Seguridad Social.",
+        "Representación ante inspecciones de trabajo.",
+        "Gestión de despidos y expedientes disciplinarios.",
+        "Consultoría en prevención de riesgos laborales."
+      ]
+    },
+    "beneficios": {
+      "titulo": "Beneficios de trabajar con Iberbrit",
+      "descripcion": "Asegura estabilidad laboral, evita riesgos y protege tus intereses empresariales.",
+      "lista": [
+        "Cumple de forma rigurosa con toda la legislación laboral vigente y evita sanciones o conflictos innecesarios.",
+        "Nuestro equipo actúa de forma preventiva y asesora en la optimización de tus recursos humanos.",
+        "Defendemos tus intereses ante la Inspección de Trabajo y garantizamos procedimientos laborales seguros.",
+        "En Iberbrit ofrecemos compromiso, confidencialidad y soluciones a medida para tu empresa."
+      ]
+    },
+    "trabajo": {
+      "titulo": "¿Cómo trabajamos contigo?",
+      "pasos": [
+        "Análisis de la situación laboral actual de tu empresa.",
+        "Detección de riesgos y oportunidades de mejora.",
+        "Diseño e implementación de estrategias laborales seguras.",
+        "Actualización continua y seguimiento normativo.",
+        "Representación y defensa ante organismos laborales."
+      ]
+    },
+    "diferencia": {
+      "titulo": "¿Por qué elegir Iberbrit para tu asesoría laboral?",
+      "descripcion": [
+        "No solo resolvemos trámites. Construimos una estrategia laboral robusta, optimizando costes y asegurando el cumplimiento de tus obligaciones.",
+        "Nuestra asesoría es proactiva, cercana y completamente adaptada a las necesidades de tu empresa."
+      ]
+    },
+    "faq": {
+      "titulo": "Preguntas frecuentes sobre asesoría laboral",
+      "lista": [
+        { "q": "¿Qué documentación necesito para contratar empleados?", "a": "Documento de identidad del trabajador, número de afiliación a la Seguridad Social y contrato firmado." },
+        { "q": "¿Qué incluye una inspección de trabajo?", "a": "Revisión de contratos, cumplimiento de cotizaciones, prevención de riesgos laborales y condiciones de los trabajadores." },
+        { "q": "¿Qué hago si recibo una sanción laboral?", "a": "Nuestro equipo te asiste en la defensa, asesoramiento legal y tramitación de recursos ante la Inspección de Trabajo." }
+      ]
+    },
+    "cta": {
+      "titulo": "¿Quieres garantizar la tranquilidad laboral de tu empresa?",
+      "boton": "Solicita una consulta gratuita"
+    }
+  },
+  "legal": {
+    "hero": {
+      "titulo": "Asesoría Legal Mercantil en España",
+      "descripcion": "Protege tu empresa y operaciones con el respaldo jurídico de Iberbrit. Constitución de sociedades, contratos, compliance y mucho más."
+    },
+    "incluye": {
+      "titulo": "¿Qué cubre nuestra asesoría legal mercantil?",
+      "descripcion": "Protegemos cada paso de tu empresa con rigor y estrategia legal.",
+      "lista": [
+        "Constitución de sociedades y modificaciones estatutarias.",
+        "Redacción y revisión de contratos mercantiles y civiles.",
+        "Asesoría en fusiones, adquisiciones y disoluciones empresariales.",
+        "Compliance legal y adaptación normativa (LOPD, PBC).",
+        "Asistencia en procedimientos judiciales mercantiles.",
+        "Consultoría legal continua para empresas nacionales e internacionales."
+      ]
+    },
+    "beneficios": {
+      "titulo": "Beneficios de elegir Iberbrit",
+      "descripcion": "Confianza jurídica para operar en España con tranquilidad y respaldo profesional.",
+      "lista": [
+        "Seguridad jurídica total en tus operaciones comerciales y corporativas.",
+        "Anticipación de riesgos legales mediante una estrategia preventiva adaptada a tu sector.",
+        "Reducción de litigios gracias a contratos blindados y adaptados a la normativa vigente.",
+        "Representación y defensa eficaz en cualquier procedimiento mercantil."
+      ]
+    },
+    "metodo": {
+      "titulo": "¿Cómo te ayudamos desde el primer día?",
+      "pasos": [
+        "Analizamos tu situación jurídica y objetivos de negocio.",
+        "Diseñamos una estrategia legal personalizada.",
+        "Blindamos tus contratos y documentación empresarial.",
+        "Acompañamiento continuo en cumplimiento normativo.",
+        "Defensa jurídica en litigios mercantiles si es necesario."
+      ]
+    },
+    "diferencia": {
+      "titulo": "¿Qué nos diferencia de otros despachos?",
+      "descripcion": [
+        "En Iberbrit no solo resolvemos problemas legales. Creamos soluciones que impulsan tu crecimiento empresarial, con un asesoramiento estratégico, práctico y personalizado.",
+        "Apostamos por la excelencia, la proactividad y el dominio total del derecho mercantil español e internacional."
+      ]
+    },
+    "faq": {
+      "titulo": "Preguntas frecuentes sobre asesoría legal",
+      "lista": [
+        { "q": "¿Qué documentos necesito para constituir una sociedad?", "a": "DNI/NIE de los socios, estatutos sociales, certificación negativa del nombre y otros documentos básicos adaptados al tipo societario." },
+        { "q": "¿Qué hacer si un contrato tiene cláusulas abusivas?", "a": "Nuestro equipo revisará el contrato y negociará su modificación o anulación para proteger tus intereses." },
+        { "q": "¿Ofrecen defensa legal si tengo un litigio mercantil?", "a": "Sí. Disponemos de abogados especializados en derecho mercantil que te representarán en cualquier procedimiento judicial." }
+      ]
+    },
+    "cta": {
+      "titulo": "¿Necesitas blindar jurídicamente tu empresa?",
+      "boton": "Solicita asesoría legal ahora"
+    }
+  },
+  "oficinas": {
+    "titulo": "Nuestras Oficinas en España",
+    "descripcion": "Descubre nuestras sedes en Madrid, Cartagena y La Manga. Te esperamos en ubicaciones estratégicas para ofrecerte asesoría fiscal, contable, legal y laboral de calidad.",
+    "oficina": "Oficina en",
+    "boton": "Solicitar cita en {{ciudad}}",
+    "lista": [
+      {
+        "ciudad": "Madrid",
+        "direccion": "Calle Gran Via 64, Planta 3 - Derecha, Centro, 28013 Madrid",
+        "imagenes": [
+          "/images/fotoscartagenas/fotoscartagena (17).webp",
+          "/images/fotoscartagenas/fotoscartagena (15).webp",
+          "/images/fotoscartagenas/fotoscartagena (12).webp",
+          "/images/fotoscartagenas/fotoscartagena (13).webp"
+        ],
+        "descripcion": "Nuestra oficina en Madrid está ubicada en el corazón financiero y empresarial de España. Desde aquí, asesoramos a autónomos, empresas y particulares, ofreciendo un servicio fiscal, legal y contable integral."
+      },
+      {
+        "ciudad": "Cartagena",
+        "direccion": "Iberbrit Legal, Calle Dr. Luis Calandre, 30, Bajo - Oficina, 30205 Cartagena, Murcia",
+        "imagenes": [
+          "/images/fotoscartagenas/fotoscartagena (21).webp",
+          "/images/fotoscartagenas/fotoscartagena (22).webp",
+          "/images/fotoscartagenas/fotoscartagena (18).webp",
+          "/images/fotoscartagenas/fotoscartagena (19).webp"
+        ],
+        "descripcion": "En nuestra sede de Cartagena combinamos cercanía, atención personalizada y excelencia profesional. Ubicados en una zona estratégica de la ciudad, ofrecemos asesoría fiscal, contable, laboral y legal adaptada a empresas locales e internacionales."
+      },
+      {
+        "ciudad": "La Manga",
+        "direccion": "Iberbrit Legal, 30380 La Manga del Mar Menor. Cartagena, Murcia.",
+        "imagenes": [
+          "/images/fotoscartagenas/fotoscartagena (24).webp",
+          "/images/fotoscartagenas/fotoscartagena (25).webp",
+          "/images/fotoscartagenas/fotoscartagena (26).webp",
+          "/images/fotoscartagenas/fotoscartagena (29).webp"
+        ],
+        "descripcion": "Nuestra oficina en La Manga ofrece un entorno privilegiado para la atención de clientes nacionales e internacionales."
+      }
+    ]
+  }
+  
+}
