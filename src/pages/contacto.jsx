@@ -59,7 +59,7 @@ const Contacto = () => {
     }
 
     try {
-      const response = await fetch("https://www.iberbrit.com/enviar-formulario", {
+      const response = await fetch("/api/enviar-formulario", {
 
         method: "POST",
         headers: {
