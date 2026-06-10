@@ -32,6 +32,8 @@ function escapeHtml(value = "") {
 export default async function handler(req, res) {
   setCorsHeaders(req, res);
 
+  let step = "inicio";
+
   if (req.method === "OPTIONS") {
     return res.status(204).end();
   }
@@ -41,13 +43,33 @@ export default async function handler(req, res) {
   }
 
   try {
+    step = "leyendo body";
+
     const { nombre, email, telefono, mensaje, recaptchaValue } = req.body || {};
+
+    console.log("DEBUG BODY:", {
+      hasNombre: Boolean(nombre),
+      hasEmail: Boolean(email),
+      hasTelefono: Boolean(telefono),
+      hasMensaje: Boolean(mensaje),
+      hasRecaptchaValue: Boolean(recaptchaValue)
+    });
+
+    console.log("DEBUG ENV:", {
+      RECAPTCHA_SECRET: Boolean(process.env.RECAPTCHA_SECRET),
+      HOLD_API_KEY: Boolean(process.env.HOLD_API_KEY),
+      SMTP_HOST: Boolean(process.env.SMTP_HOST),
+      SMTP_USER: Boolean(process.env.SMTP_USER),
+      SMTP_PASS: Boolean(process.env.SMTP_PASS)
+    });
 
     if (!nombre || !email || !recaptchaValue) {
       return res.status(400).json({
         message: "Faltan campos obligatorios."
       });
     }
+
+    step = "verificando recaptcha";
 
     // 1. Verificar reCAPTCHA
     const recaptchaResponse = await fetch(
@@ -73,6 +95,8 @@ export default async function handler(req, res) {
         message: "Verificación reCAPTCHA fallida."
       });
     }
+
+    step = "creando contacto en Holded";
 
     // 2. Crear contacto en Holded
     const createContactResponse = await fetch(
@@ -104,6 +128,8 @@ export default async function handler(req, res) {
     const contacto = await createContactResponse.json();
     const contactoId = contacto.id;
 
+    step = "creando nota en Holded";
+
     // 3. Crear nota asociada al contacto
     const noteResponse = await fetch(
       "https://api.holded.com/api/invoicing/v1/notes",
@@ -130,6 +156,8 @@ export default async function handler(req, res) {
         message: "Contacto creado, pero no se pudo crear la nota en Holded."
       });
     }
+
+    step = "creando lead en Holded";
 
     // 4. Crear lead en el funnel
     const leadResponse = await fetch(
@@ -161,20 +189,25 @@ export default async function handler(req, res) {
       });
     }
 
+    step = "enviando email";
+
     // 5. Enviar email
+    const smtpPort = Number(process.env.SMTP_PORT || 465);
     const transporter = nodemailer.createTransport({
       host: process.env.SMTP_HOST,
-      port: 465,
-      secure: true,
+      port: smtpPort,
+      secure: smtpPort === 465,
       auth: {
         user: process.env.SMTP_USER,
         pass: process.env.SMTP_PASS
       }
     });
 
+    await transporter.verify();
+
     await transporter.sendMail({
-      from: `"Formulario Iberbrit" <${process.env.SMTP_USER}>`,
-      to: "info@iberbrit.com",
+      from: `"Formulario Iberbrit" <${process.env.MAIL_FROM || process.env.SMTP_USER}>`,
+      to: process.env.MAIL_TO || "info@iberbrit.com",
       subject: "Nuevo contacto desde formulario web",
       html: `
         <h2>Nuevo contacto recibido</h2>
@@ -190,10 +223,20 @@ export default async function handler(req, res) {
     });
 
   } catch (error) {
-    console.error("Error procesando formulario:", error);
+    console.error("Error procesando formulario:", {
+      step,
+      name: error?.name,
+      message: error?.message,
+      code: error?.code,
+      command: error?.command,
+      response: error?.response,
+      responseCode: error?.responseCode,
+      stack: error?.stack
+    });
 
     return res.status(500).json({
-      message: "Error al procesar el formulario."
+      message: "Error al procesar el formulario.",
+      step
     });
   }
 }
