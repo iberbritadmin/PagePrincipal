@@ -128,38 +128,9 @@ export default async function handler(req, res) {
     const contacto = await createContactResponse.json();
     const contactoId = contacto.id;
 
-    step = "creando nota en Holded";
-
-    // 3. Crear nota asociada al contacto
-    const noteResponse = await fetch(
-      "https://api.holded.com/api/invoicing/v1/notes",
-      {
-        method: "POST",
-        headers: {
-          key: process.env.HOLD_API_KEY,
-          "Content-Type": "application/json",
-          accept: "application/json"
-        },
-        body: JSON.stringify({
-          entity: "contacts",
-          entityId: contactoId,
-          note: mensaje || ""
-        })
-      }
-    );
-
-    if (!noteResponse.ok) {
-      const errorText = await noteResponse.text();
-      console.error("Error creando nota en Holded:", errorText);
-
-      return res.status(502).json({
-        message: "Contacto creado, pero no se pudo crear la nota en Holded."
-      });
-    }
-
     step = "creando lead en Holded";
 
-    // 4. Crear lead en el funnel
+    // 3. Crear lead en el funnel
     const leadResponse = await fetch(
       "https://api.holded.com/api/crm/v1/leads",
       {
@@ -186,6 +157,45 @@ export default async function handler(req, res) {
 
       return res.status(502).json({
         message: "Contacto creado, pero no se pudo crear el lead en Holded."
+      });
+    }
+
+    const lead = await leadResponse.json();
+    const leadId = lead.id;
+
+    if (!leadId) {
+      console.error("Lead creado sin ID en Holded:", lead);
+
+      return res.status(502).json({
+        message: "Lead creado, pero Holded no devolvió un ID para crear la nota."
+      });
+    }
+
+    step = "creando nota en Holded";
+
+    // 4. Crear nota asociada al lead
+    const noteResponse = await fetch(
+      `https://api.holded.com/api/crm/v1/leads/${leadId}/notes`,
+      {
+        method: "POST",
+        headers: {
+          key: process.env.HOLD_API_KEY,
+          "Content-Type": "application/json",
+          accept: "application/json"
+        },
+        body: JSON.stringify({
+          title: "Mensaje del formulario web",
+          desc: mensaje || ""
+        })
+      }
+    );
+
+    if (!noteResponse.ok) {
+      const errorText = await noteResponse.text();
+      console.error("Error creando nota en Holded:", errorText);
+
+      return res.status(502).json({
+        message: "Contacto y lead creados, pero no se pudo crear la nota en Holded."
       });
     }
 
